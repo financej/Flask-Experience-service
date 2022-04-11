@@ -1,3 +1,10 @@
+body{
+    margin: 80px;
+}
 .card-comments img {
     width: 4rem;
 }
+.aaa { font-weight: 700; color: orange}
+.bbb { color: red; }
+.sub { color: blue; }
+.font-sm{ font-size: 0.9rem }
